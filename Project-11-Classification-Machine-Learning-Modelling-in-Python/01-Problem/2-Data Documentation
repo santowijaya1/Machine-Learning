@@ -1,0 +1,20 @@
+In this dataset we have several different variables:
+    
+String    
+    PassengerId: Lable of each record. (Object)
+    Name: The first and last name of passengers. (Object)
+    Ticket: The number of written on ticket. (Object)
+
+Categorical - Nominal
+    Sex: Shows the gender of each passenger [male , female]. (Object)
+    Survived: It's target variable and shows the survival [0:No , 1:Yes]. (Int64)
+    Cabin: Shows the type of cabin [A , B , C , D , E , F , G , T]. (Object)
+    Embarked: the port of embarkation [C:Cherbourg, Q:Queenstown, S:Southampton]. (Object)
+
+Categorical - Ordinal
+    Pclass: A proxy for socio-economic status [1:First Class, 2:Mid Class, 3:Low Class]. (Int64)
+
+Numerical
+    Age: Age of each passenger in year. it is fractional if less than one. (Float64 / Int64)
+    Parch: The family size. zero means a child travelled only with a nanny. (Float64 / Int64)
+    Fare: The amount of money that passenger paid. (Float64 / Int64)

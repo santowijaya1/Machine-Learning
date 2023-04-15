@@ -1,0 +1,19 @@
+For this project, we have a plan and try to do all tasks step by step:
+
+2-Data Cleaning
+    2.1-Basic Steps
+    2.2-Numerical Variable
+    2.3-Categorical Number Variable
+    2.4-Categorical Text Variable
+
+3-Exploratory Data Analysis
+    3.1-Quantitaive Descriptive Analysis
+    3.2-Qualitative Descriptive Analysis
+    3.3-Correlation Analysis
+
+4-Feature Engineering
+    4.1-Exclude un-needed variables
+    4.2-Data Mapping
+    4.3-Data Encoding 
+    
+5-Modelling

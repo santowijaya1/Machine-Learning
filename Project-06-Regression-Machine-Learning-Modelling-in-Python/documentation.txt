@@ -1,0 +1,13 @@
+Antenna height: The height of the antenna can greatly affect its range and coverage area. (20 to 50)  
+
+Signal strength: The strength of the incoming or outgoing signal can affect the quality of the connection. (0 to 5)
+
+Antenna type: Different types of antennas have different radiation patterns and gain, which can affect their performance in different ways.(Wire ,Aperture ,Reflector ,	Array,	Printed Circuit Board (PCB), Dielectric)
+
+Antenna orientation: The direction in which the antenna is pointing can affect its ability to receive or transmit signals from different directions. (Horizontal , Vertical , Circular, Omni-directional) 
+
+Frequency: The frequency at which the antenna operates can affect its range and ability to penetrate obstacles. (Very Low Frequencies (VLF),Low Frequencies (LF),Medium Frequencies (MF),High Frequencies (HF),Very High Frequencies (VHF),Ultra-High Frequencies (UHF), Super-High Frequencies (SHF), Extremely High Frequencies (EHF)) 
+
+Power supply: The amount of power supplied to the antenna can affect its transmission range and signal quality. (Passive, Active, Power over Ethernet,Solar-powered ,Battery-powered) 
+
+Zone: The location of the antenna relative to other buildings or structures can affect its range and performance. (north, south, west, east, center) 
